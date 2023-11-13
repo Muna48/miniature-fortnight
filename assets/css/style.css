@@ -66,13 +66,9 @@ a {
 }
 
 
-
-
 .services-format img {
     max-height: 200px;
 }
-
-
 
 h2,
 h3,
@@ -89,8 +85,6 @@ p {
 }
 
 
-
-
 .float-left {
     float: left;
     margin-right: 25px;
@@ -101,75 +95,49 @@ p {
     margin-left: 25px;
 }
 
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 940px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit2 {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+h5,
+h6,
+h7 {
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+    font-size: 36;
     margin-bottom: 10px;
     text-align: center;
+
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+.benefits2 img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+
 }
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-
 
 .footer {
+    background-color: darkblue;
+    color:#ffffff;
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+h8 {
     font-size: 20px;
+
 }
